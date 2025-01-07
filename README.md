@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @th3k3ymast3r or you can call me Leigh
-- 👀 I’m interested in User Experience Design and User Interface Design
-- 🌱 I’m currently learning nuances of ES6, taking up Reactjs
-- 💞️ My UI stack is HTML5, JavaScript, jQuery + SASS
+- 👀 I practice User Experience Design and User Interface Design
+- 🌱 I’m currently learning nuances of ES6, taking up Reactjs + Tailwind + Sveltekit
+- 💞️ My UI stack is HTML5, JavaScript, jQuery + SASS, GIT, NodeJS, Gulp, Bash
 - 📫 How to reach me https://portfolio.supergui.co
 
 <!---
